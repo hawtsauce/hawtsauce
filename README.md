@@ -2,8 +2,6 @@
 
 ![Profile Banner](https://i.imgur.com/0lF4uNq.png) <!-- Optional banner -->
 
-### I'm a **programmer** and **entrepreneur** who loves building cool stuff and making ideas happen.
-
 ---
 
 ## 🚀 About Me
@@ -15,4 +13,3 @@
 - 📍 Dhaka, Bangladesh
 - 📫 Reach me: linkon@brnnd.com
 
----
