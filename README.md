@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack tinkerer — love experimenting
+- 💻 Full-stack
 - 🌱 Founder & Entrepreneur — building projects that matter.
 - 📈 Branding Expert — Visual Storyteller
 - 📸 Photography Enthusiast
