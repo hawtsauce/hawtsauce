@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack tinkerer — I code stuffs, I find cool
+- 💻 Full-stack tinkerer — I code stuffs that I find cool
 - 🌱 Founder & Entrepreneur — building projects that matter.
 - 📈 Branding Expert — Visual Storyteller
 - 📸 Photography Enthusiast
