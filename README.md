@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Linkon
 
-![Profile Banner](https://i.imgur.com/gAJqarj_d.webp?maxwidth=1520&fidelity=grand) <!-- Optional banner -->
+![Profile Banner](https://i.imgur.com/0lF4uNq.png) <!-- Optional banner -->
 
 ### I'm a **programmer** and **entrepreneur** who loves building cool stuff and making ideas happen.
 
