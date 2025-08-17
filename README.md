@@ -1,1 +1,18 @@
-uh i code stuffs i find cool
+# Hey there 👋, I'm Linkon
+
+![Profile Banner](https://images.unsplash.com/photo-1665686306574-1ace09918530) <!-- Optional banner -->
+
+I'm a **programmer** and **entrepreneur** who loves building cool stuff and making ideas happen.
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-stack tinkerer — I code stuffs, I find cool
+- 🌱 Founder & Entrepreneur — building projects that matter.
+- 📈 Branding Expert — Visual Storyteller
+- 📸 Photography Enthusiast
+- 📍 Dhaka, Bangladesh
+- 📫 Reach me: linkon@brnnd.com
+
+---
